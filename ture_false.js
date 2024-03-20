@@ -1,3 +1,12 @@
+// someFalsy values
+//false
+//0
+//""
+//undefined
+//null
+//NaN
+//some Truthy values
+//'0', ' ','false'
 const age = 9;
 if(age>0){
     console.log("Condition is true");
