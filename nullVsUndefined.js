@@ -21,3 +21,6 @@
 
 let fun = undefined;
 console.log(fun);
+
+//null means not existing 
+
