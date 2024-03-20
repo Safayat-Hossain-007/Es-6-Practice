@@ -23,4 +23,8 @@ let fun = undefined;
 console.log(fun);
 
 //null means not existing 
+function add3(num1,num2,num3){
+    return num1+num2+num3;
+}
+console.log(add3(1,2,2));
 
