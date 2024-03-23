@@ -11,7 +11,7 @@ const nums2 =[1,-2,3,4,-5,-6,7,-8,9];
 for(let i=0;i<nums.length;i++){
     
     if(nums2[i]<0){
-        continue; //skip kore zabo
+        continue; //skip kore zabo ba ignore kore
     }
     console.log(nums2[i]);
 }
